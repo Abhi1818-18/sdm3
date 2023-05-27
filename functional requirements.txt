@@ -1,0 +1,25 @@
+Functional Requirements for Krushi Kendra (Agricultural Center):
+
+1. User Management:
+   - User registration and authentication: Users can create accounts and log in securely to access the system.
+   - User roles and permissions: Differentiate between user roles (e.g., farmers, agricultural experts, administrators) and assign appropriate permissions to control access to features and data.
+   - User profile management: Allow users to update their profiles, including personal information, contact details, and farming preferences.
+
+2. Crop Information and Advisory:
+   - Crop database: Maintain a comprehensive database of crops with details such as crop types, varieties, cultivation practices, and pest management.
+   - Crop search and recommendation: Enable farmers to search for crops based on factors like climate, soil type, water availability, and market demand. Provide recommendations for suitable crops based on the farmer's location and preferences.
+   - Advisory services: Provide agricultural advice and best practices for crop cultivation, irrigation, fertilization, disease prevention, and pest control. Allow experts to share their knowledge and recommendations with farmers.
+
+3. Soil Testing and Analysis:
+   - Soil testing requests: Allow farmers to request soil testing for their land to determine nutrient levels, pH balance, and other relevant factors.
+   - Soil sample collection: Provide guidelines for collecting soil samples and facilitate their submission to the testing laboratory.
+   - Soil analysis reports: Generate detailed soil analysis reports that include recommendations for soil amendments, fertilizers, and other necessary actions to optimize crop productivity.
+
+4. Weather Information:
+   - Real-time weather data: Integrate with weather APIs to provide accurate and up-to-date weather information, including temperature, rainfall, humidity, and wind speed.
+   - Weather alerts and forecasts: Send timely alerts to farmers about severe weather conditions, such as heavy rainfall, drought, or storms, to help them make informed decisions and take necessary precautions.
+
+5. Market Information:
+   - Crop prices: Provide farmers with access to real-time market prices for various crops in different markets. Help farmers make informed decisions regarding crop selection and selling.
+   - Market trends and analysis: Analyze historical market data to identify trends and patterns. Provide insights into market demand, supply, and price fluctuations to assist farmers in planning their production and marketing strategies.
+

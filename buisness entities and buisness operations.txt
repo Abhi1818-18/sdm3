@@ -1,0 +1,29 @@
+Business Entities and operations for Krushi Kendra:
+
+1. User:
+   - Attributes: ID, Username, Password, Email, Role, Contact Details, etc.
+   - Responsibilities: Register and authenticate users, manage user profiles, access system features based on roles, etc.
+
+2. Farmer:
+   - Attributes: ID, User ID, First Name, Last Name, Contact Details, Address, Farming Preferences, etc.
+   - Responsibilities: Access crop information and advisory, request soil testing, receive weather information and alerts, participate in the farmer community, manage farm records, etc.
+
+3. Agricultural Expert:
+   - Attributes: ID, User ID, First Name, Last Name, Contact Details, Expertise Area, etc.
+   - Responsibilities: Provide crop advisory services, share knowledge and best practices, participate in discussions and forums, conduct workshops and training programs, etc.
+
+4. Crop:
+   - Attributes: ID, Crop Name, Crop Type, Description, Cultivation Practices, Pest Management, etc.
+   - Responsibilities: Store and retrieve crop information, provide recommendations, support crop selection, etc.
+
+5. Soil Test:
+   - Attributes: ID, Farmer ID, Test Date, Soil Type, pH Level, Nutrient Levels, etc.
+   - Responsibilities: Receive soil testing requests, conduct soil analysis, generate reports, provide recommendations for soil amendments, etc.
+
+6. Weather Information:
+   - Attributes: ID, Location, Date, Temperature, Rainfall, Humidity, Wind Speed, etc.
+   - Responsibilities: Retrieve and display real-time weather data, send weather alerts and forecasts, assist in decision-making related to farming activities, etc.
+
+7. Market Information:
+   - Attributes: ID, Crop ID, Market Name, Price, Price Date, etc.
+   - Responsibilities: Provide market prices for crops, analyze market trends, assist farmers in making informed decisions about crop selling, etc.
